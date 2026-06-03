@@ -58,3 +58,7 @@ Esta guía describe el proceso básico para instalar y preparar el servicio Chec
 
 No se deben realizar cambios directamente sobre la rama main. Todas las modificaciones deben pasar por un proceso de revisión mediante Pull Request para garantizar la trazabilidad y el control de cambios.
 
+
+
+> Advertencia: la validación no debe considerarse completa si solo se revisa el contenido del archivo. También debe comprobarse que el entorno local permite ejecutar el flujo documentado.
+
